@@ -1,0 +1,18 @@
+{
+  "name": "Jai",
+  "children": [{
+    "name": "Shyam Kumar",
+    "children": [{
+      "name": "Shri"
+    }, {
+      "name": "Ram"
+    }]
+  }, {
+    "name": "Ram Prasad",
+    "children": [{
+      "name": "Mata"
+    }, {
+      "name": "Di"
+    }]
+  }]
+}
